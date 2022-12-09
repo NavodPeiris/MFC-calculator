@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="CAboutDlg">
+    <Position X="4.75" Y="3" Width="3.5" />
+    <NestedTypes>
+      <Enum Name="CAboutDlg::__unnamed_enum_0403_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>calculatorDlg.cpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>calculatorDlg.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CcalculatorApp">
+    <Position X="42" Y="10" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>calculator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CcalculatorDlg">
+    <Position X="4" Y="7" Width="4.25" />
+    <NestedTypes>
+      <Enum Name="CcalculatorDlg::__unnamed_enum_0404_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>calculatorDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EBDAAEEEEggAAAACATIAEAiAACACAQRQAAAAKAAQgAA=</HashCode>
+      <FileName>calculatorDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWinApp">
+    <Position X="46" Y="5" Width="13.5" />
+    <TypeIdentifier>
+      <HashCode>57Zg4NJZMRYwEDOJuKSX1EtlESlJxcwkSSNipVAHtHc=</HashCode>
+      <FileName>C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\include\afxwin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDialogEx">
+    <Position X="10.5" Y="3" Width="7.25" />
+    <NestedTypes>
+      <Enum Name="CDialogEx::BackgroundLocation" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\include\afxdialogex.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AABBAAACAAEAAAiAACCCBEBQAAAAAAEAIACCgQAAAAI=</HashCode>
+      <FileName>C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\include\afxdialogex.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDialog">
+    <Position X="18.75" Y="1.75" Width="7.5" />
+    <TypeIdentifier>
+      <HashCode>AAGAyCkAQMCYAQgEDAIAgBSFACBDAUAgBAoQAAFABiA=</HashCode>
+      <FileName>C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\include\afxwin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWinThread">
+    <Position X="61" Y="5" Width="6.5" />
+    <TypeIdentifier>
+      <HashCode>AAkAAQwAICAIBhgQCAABkAABAAEAgQYAgAAAgAgJCAM=</HashCode>
+      <FileName>C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\include\afxwin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCmdTarget">
+    <Position X="68.5" Y="2" Width="14.5" />
+    <NestedTypes>
+      <Struct Name="CCmdTarget::XDispatch" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\include\afxwin.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="CCmdTarget::XConnPtContainer" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\include\afxwin.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>gAQBRAgFAIUREFAwCNAoxmIAxQRSASAACwAAQDABAMA=</HashCode>
+      <FileName>C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\include\afxwin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CObject">
+    <Position X="84.75" Y="2" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAQAQAAAAACAAAgQAAADAAAAAAEUAgAEAAAAA=</HashCode>
+      <FileName>C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\include\afx.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWnd">
+    <Position X="27" Y="1.75" Width="13.75" />
+    <NestedTypes>
+      <Enum Name="CWnd::AdjustType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\include\afxwin.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="CWnd::RepositionFlags" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\include\afxwin.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Class Name="CWnd::XAccessible" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\include\afxwin.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="CWnd::XAccessibleServer" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\include\afxwin.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>v977//bff7//b//96f/v/f/97/+e33f39uv7/d///78=</HashCode>
+      <FileName>C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\atlmfc\include\afxwin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
